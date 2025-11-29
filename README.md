@@ -1,3 +1,4 @@
 # projeto_poo
-
-## segue o video a UML e por fim o codigo do projeto 
+##Professor o video foi enviado por email estava falando no ava que o tamnho nao era compativel 
+##mandei no ava que estaria aqui mas tambem nao foi compativel
+##agradeco a compreensao
