@@ -2,7 +2,7 @@
 
 
 
-## Professor o video foi enviado por email estava falando no ava que o tamnho nao era compativel 
+## Professor o video foi enviado por email estava falando no ava que o tamanho nao era compativel 
 
 
 
